@@ -1,0 +1,15 @@
+.footer{
+    padding: 2rem 0;
+    background-color:var(--first-color-lighter) ;
+}
+
+.footer__box{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+
+}
+
+.footer__box img {
+    width: 10%;
+}

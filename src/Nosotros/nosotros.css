@@ -1,0 +1,23 @@
+.nosotros {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nosotros__box {
+    width: 50%;
+    text-align: center;
+
+}
+
+.nosotros__box h2 {
+    font-size: var(--h1-font-size);
+
+    padding-bottom: 1rem;
+}
+
+.nosotros__box p {
+    font-size: 1.2em;
+    color: var(--title-color);
+    padding-bottom: 1rem;
+}

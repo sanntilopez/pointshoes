@@ -1,0 +1,159 @@
+
+[
+        {
+            "categoria": "zapatillas",
+            "nombre": "adidas Yeezy Boost 350 V2 Dazzling Blue",
+            "marca": "adidas",
+            "img": "/img/yeezyBoostBlue.jpg",
+            "precio": 355,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Air Force 1 High Black",
+            "marca": "Nike",
+            "img": "/img/airForce1HighBlack.jpg",
+            "precio": 305,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Air Jordan 1 Low Vintage Stealth Grey",
+            "marca": "Jordan",
+            "img": "/img/Air-Jordan-1-Low-Vintage-Stealth-Grey.jpg",
+            "precio": 255,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Air Jordan 1 Mid Neutral Grey",
+            "marca": "Jordan",
+            "img": "/img/Air-Jordan-1-Mid-Neutral-Grey.jpg",
+            "precio": 265,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Air Jordan 1 Mid Taxi",
+            "marca": "Jordan",
+            "img": "/img/Jordan-1-Mid-Taxi-GS.jpg",
+            "precio": 275,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Jordan 1 Low Barely Grape",
+            "marca": "Jordan",
+            "img": "/img/Jordan-1-Low-Barely-Grape-W.jpg",
+            "precio": 265,
+            "stock": 23,
+            "genero": "mujer",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Jordan 1 Low Black Dark Powder Blue",
+            "marca": "Jordan",
+            "img": "/img/Jordan-1-Low-Black-Dark-Powder-Blue-W.jpg",
+            "precio": 300,
+            "stock": 23,
+            "genero": "mujer",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Jordan 1 Low Black Dark Powder Blue",
+            "marca": "Jordan",
+            "img": "/img/Jordan-1-Low-Black-Dark-Powder-Blue-W.jpg",
+            "precio": 300,
+            "stock": 23,
+            "genero": "mujer",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Jordan 1 Mid Diamond Shorts",
+            "marca": "Jordan",
+            "img": "/img/Jordan-1-Mid-Diamond-Shorts.jpg",
+            "precio": 250,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Jordan 11 Retro Cherry (2022) (GS)",
+            "marca": "Jordan",
+            "img": "/img/Jordan-11-Retro-Cherry-2022-GS.jpg",
+            "precio": 320,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Nike Air Force 1 '07 Low Color of the Month Triple White",
+            "marca": "Nike",
+            "img": "/img/Nike-Air-Force-1-_07-Low-Color-of-the-Month-Triple-White.jpg",
+            "precio": 220,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Nike Air Force 1 Low Supreme Black",
+            "marca": "Nike",
+            "img": "/img/Nike-Air-Force-1-Low-Supreme-Black.jpg",
+            "precio": 300,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Nike Air Force 1 Low Supreme White",
+            "marca": "Nike",
+            "img": "/img/Nike-Air-Force-1-Low-Supreme-White.jpg",
+            "precio": 300,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        },
+        {
+            "categoria": "zapatillas",
+            "nombre": "Nike Dunk High Medium Blue Midnight Navy",
+            "marca": "Nike",
+            "img": "/img/Nike-Dunk-High-Medium-Blue-Midnight-Navy.jpg",
+            "precio": 240,
+            "stock": 23,
+            "genero": "hombre",
+            "talles": ["7", "7.5", "8"],
+            "descuento": 0
+        }
+        
+        
+    ]

@@ -1,0 +1,46 @@
+.destacados {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.destacados__box {
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    gap: 1rem;
+}
+
+.product {
+    padding: 0 1rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    flex: 1;
+    box-shadow: 0 0 3px #0004;
+}
+
+.product__body {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.product__img {
+    width: 300px;
+}
+
+.product h3 {
+    font-size: var(--h3-font-size);
+    color: var(--title-color);
+}
+
+.product span {
+    font-size: var(--normal-font-size);
+    color: var(--text-color);
+}
